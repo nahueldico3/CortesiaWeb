@@ -1,0 +1,222 @@
+[
+    {
+        "id": "acolchado-01",
+        "titulo": "Acolchado 01",
+        "imagen": "./img/acolchados/01.jpg",
+        "categoria": {
+            "nombre": "Acolchados",
+            "id": "acolchados"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "acolchado-02",
+        "titulo": "Acolchado 02",
+        "imagen": "./img/acolchados/02.jpg",
+        "categoria": {
+            "nombre": "Acolchados",
+            "id": "acolchados"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "acolchado-03",
+        "titulo": "Acolchado 03",
+        "imagen": "./img/acolchados/03.jpg",
+        "categoria": {
+            "nombre": "Acolchados",
+            "id": "acolchados"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "acolchado-04",
+        "titulo": "Acolchado 04",
+        "imagen": "./img/acolchados/04.jpg",
+        "categoria": {
+            "nombre": "Acolchados",
+            "id": "acolchados"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "acolchado-05",
+        "titulo": "Acolchado 05",
+        "imagen": "./img/acolchados/05.jpg",
+        "categoria": {
+            "nombre": "Acolchados",
+            "id": "acolchados"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "acolchado-06",
+        "titulo": "Acolchado 06",
+        "imagen": "./img/acolchados/06.jpg",
+        "categoria": {
+            "nombre": "Acolchados",
+            "id": "acolchados"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "almohada-01",
+        "titulo": "Almohada 01",
+        "imagen": "./img/almohadas/01.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "almohada-02",
+        "titulo": "Almohada 02",
+        "imagen": "./img/almohadas/02.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "almohada-03",
+        "titulo": "Almohada 03",
+        "imagen": "./img/almohadas/03.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "almohada-04",
+        "titulo": "Almohada 04",
+        "imagen": "./img/almohadas/04.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "almohada-05",
+        "titulo": "Almohada 05",
+        "imagen": "./img/almohadas/05.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "almohada-06",
+        "titulo": "Almohada 06",
+        "imagen": "./img/almohadas/06.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 3100
+    },
+    {
+        "id": "almohada-07",
+        "titulo": "Almohada 07",
+        "imagen": "./img/almohadas/07.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 3900
+    },
+    {
+        "id": "almohada-08",
+        "titulo": "Almohada 08",
+        "imagen": "./img/almohadas/08.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "almohada-09",
+        "titulo": "Almohada 09",
+        "imagen": "./img/almohadas/09.jpg",
+        "categoria": {
+            "nombre": "Almohadas",
+            "id": "almohadas"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "sabana-01",
+        "titulo": "Sabana 01",
+        "imagen": "./img/sabanas/01.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "sabana-02",
+        "titulo": "Sabana 02",
+        "imagen": "./img/sabanas/02.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "sabana-03",
+        "titulo": "Sabana 03",
+        "imagen": "./img/sabanas/03.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "sabana-04",
+        "titulo": "Sabana 04",
+        "imagen": "./img/sabanas/04.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "sabana-05",
+        "titulo": "Sabana 05",
+        "imagen": "./img/sabanas/05.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 5600
+    },
+    {
+        "id": "sabana-06",
+        "titulo": "Sabana 06",
+        "imagen": "./img/sabanas/06.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 2600
+    },
+    {
+        "id": "sabana-07",
+        "titulo": "Sabana 07",
+        "imagen": "./img/sabanas/07.jpg",
+        "categoria": {
+            "nombre": "Sabanas",
+            "id": "sabanas"
+        },
+        "precio": 3200
+    }
+]
